@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ball\ here.\r\n\ \r\n\ @author\ Andrew\ george\r\n\ @version\ v4\ resetting\ the\ ball\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=boolean\ findRpaddle()
+comment4.params=
+comment4.target=boolean\ findBpaddle()
+comment5.params=
+comment5.target=void\ direction()
+comment6.params=
+comment6.target=void\ topbounce()
+comment7.params=
+comment7.target=void\ bottombounce()
+comment8.params=
+comment8.target=boolean\ scoreright()
+comment8.text=\r\n\ this\ section\ is\ dedicated\ to\ detecting\ ball\ psition\ for\ the\ sake\ of\ resetting\r\n
+comment9.params=
+comment9.target=boolean\ scoreleft()
+numComments=10
